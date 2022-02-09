@@ -1,5 +1,5 @@
 # ================================================================
-# Project Euler Problem 2
+# Project Euler Problem 2 : Even Fibonacci numbers
 # ================================================================
 # Copyright © gonewithharshwinds @ 2022. All rights reserved.
 # ================================================================
